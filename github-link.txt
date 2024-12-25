@@ -1,0 +1,3 @@
+https://github.com/emirkavukcu/CS405-Project3
+
+I had issues with fetching the texture data from imgur, so I added them manually to the project under textures/ folder.
